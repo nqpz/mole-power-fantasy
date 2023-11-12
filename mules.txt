@@ -1,0 +1,32 @@
+# MOLE RULES ("mules" but not related to the animal, mole better than mule)
+#
+# rules for normal moles, perfect mole can do more
+
+Mole eat Food :-
+  Mole is hungry
+  Mole near Food
+
+Item is Food :-
+  Item is Animal
+  Item is (dead | paralyzed)
+
+Item is Food :-
+  Item is plant
+
+can Mole paralyze Animal :-
+  Animal is alive
+  Mole is predator of Animal
+
+can Mole kill Animal :-
+  Animal is alive
+  Mole is predator of Animal
+
+Animal is mole
+Animal is worm
+Animal is human
+
+mole is predator of worm
+
+
+# TODO: sleep, mate, traps, digging
+
