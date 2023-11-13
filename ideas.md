@@ -1,6 +1,6 @@
 # fun expressions
 
-- mole goals
+- mole goals ("moals"? quest system?)
 - holy moley
 
 
