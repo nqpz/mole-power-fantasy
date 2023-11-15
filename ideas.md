@@ -2,6 +2,7 @@
 
 - mole goals ("moals"? quest system?)
 - holy moley
+- break the mole-d
 
 
 # start of game
