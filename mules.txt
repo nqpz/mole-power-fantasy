@@ -31,7 +31,7 @@ mole is predator of worm
 # TODO: sleep, mate, traps, digging
 
 
-MoleA has compassion with MoleB :-
+MoleA has empathy with MoleB :-
   MoleB is MoleKind,
   MoleB has experience E,
   when MoleA was MoleKind: MoleA has experience E
