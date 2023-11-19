@@ -24,3 +24,10 @@ mole must choose between save pups or save mole love
 no
 
 mole can both save pups and save mole love
+
+
+# need to change the past
+
+same plot as superman (1979)
+
+change the past by chaning the written history
