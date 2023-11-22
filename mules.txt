@@ -35,3 +35,6 @@ MoleA has empathy with MoleB :-
   MoleB is MoleKind,
   MoleB has experience E,
   when MoleA was MoleKind: MoleA has experience E
+
+MoleA want spend time with MoleB :-
+  MoleA love MoleB.

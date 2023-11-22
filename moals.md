@@ -57,3 +57,44 @@ worm can dig through brick
 worm dig through brick
 
 mole eat worm
+
+
+# Change mind
+
+## Problem
+
+- mole is distracted because
+  - mole want spend time with molly but
+    - molly not want spend time with mole
+
+## Story
+
+mole is child mole
+
+molly is child mole
+
+molly like play with worm
+
+mole like play with molly
+
+mole is teenager mole
+
+molly is teenager mole
+
+mole like molly
+
+molly like eat worm slowly
+
+mole is adult mole
+
+molly love survive
+
+mole love molly
+
+## Solution 1
+
+molly love mole
+
+## Solution 2
+
+mole not love molly
