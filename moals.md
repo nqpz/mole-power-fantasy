@@ -28,3 +28,32 @@ mole make new pups
 new pups are good but not as good as mole
 
 mole is better than all competitors
+
+
+# Dig through brick
+
+worm can dig through soil
+
+mole can dig through soil
+
+mole is in front of brick
+
+worm is behind brick
+
+mole can hear worm
+
+## Solution 1
+
+mole can dig through brick
+
+mole dig through brick
+
+mole eat worm
+
+## Solution 2
+
+worm can dig through brick
+
+worm dig through brick
+
+mole eat worm
