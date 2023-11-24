@@ -67,3 +67,25 @@ n s(X) action if
 ```
 
 n 100 (mole dig)
+
+
+# order of actions
+
+action has order
+
+mole can only do action if first action or if another previous action
+
+```
+Entity can X if
+  actions none.
+
+Entity can X if
+  actions Y,
+  any from Y Z,
+  Z order before X
+```
+
+## gameplay uses if changed
+
+- Entity can do action also before some other action (time travel)
+- Entity cannot do any action (avoid responsibility)
