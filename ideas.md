@@ -31,3 +31,39 @@ mole can both save pups and save mole love
 same plot as superman (1979)
 
 change the past by chaning the written history
+
+
+# fast travel by induction
+
+mole can dig through earth
+
+mole move forward when mole dig
+
+## problem
+
+can mole reach 100 spaces forward?
+
+
+## solution 1
+
+mole dig
+
+mole dig
+
+mole dig
+
+...
+
+
+## solution 2
+
+```
+n zero action if
+  do action.
+
+n s(X) action if
+  do action
+  n X action.
+```
+
+n 100 (mole dig)
