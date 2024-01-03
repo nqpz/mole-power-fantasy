@@ -36,7 +36,14 @@ can Mole wake up :-
 Mole can dream :-
   Mole sleep
 
-# TODO: mate, traps, digging
+can Mole dig through Thing :-
+  Mole is next to Thing,
+  Thing is dead,
+
+!remove Thing, !add rubble(Thing) :-
+  Mole dig through Thing
+
+# TODO: mate, traps
 
 
 MoleA has empathy with MoleB :-
