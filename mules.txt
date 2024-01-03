@@ -27,8 +27,16 @@ Animal is human
 
 mole is predator of worm
 
+can Mole sleep :-
+  Mole is awake
 
-# TODO: sleep, mate, traps, digging
+can Mole wake up :-
+  Mole sleep
+
+Mole can dream :-
+  Mole sleep
+
+# TODO: mate, traps, digging
 
 
 MoleA has empathy with MoleB :-
