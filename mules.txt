@@ -50,7 +50,18 @@ X is-in danger if
   X is near kidnapper
 
 X is-in danger if
-  X is near trap
+  X is near trap,
+  X is moving to trap.
+
+next turn: X can be on Pos1 if
+  X moving from Pos0 to Pos1.
+
+next turn: X can be on Pos0 if
+  X moving from Pos0 to Pos1,
+  Mole stop X.
+
+trap kills X if
+  X on trap.
 
 # TODO: mate, traps
 
