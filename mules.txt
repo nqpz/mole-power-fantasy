@@ -43,6 +43,15 @@ can Mole dig through Thing :-
 !remove Thing, !add rubble(Thing) :-
   Mole dig through Thing
 
+Mole need-to save X if
+  X is in danger.
+
+X is-in danger if
+  X is near kidnapper
+
+X is-in danger if
+  X is near trap
+
 # TODO: mate, traps
 
 

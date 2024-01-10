@@ -19,7 +19,8 @@
 
 # easily solvable dilemma
 
-mole must choose between save pups or save mole love
+mole must choose between save pups (near kidnapper) or save mole love
+(near trap)
 
 no
 
