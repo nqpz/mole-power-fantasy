@@ -25,12 +25,23 @@ no
 
 mole can both save pups and save mole love
 
+## problem
+
+start of game only has something like a `Mole can Action` rule.
+
+But the actions need to be done at the same time.
+
+## solution
+
+Add a `Mole can {Action1 and Action2} if Action1, Action2` rule to
+indicate that both actions are done in a single turn.
+
 
 # need to change the past
 
 same plot as superman (1979)
 
-change the past by chaning the written history
+change the past by changing the written history
 
 
 # fast travel by induction
