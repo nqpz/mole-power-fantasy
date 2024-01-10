@@ -103,7 +103,7 @@ Entity can X if
 - Entity cannot do any action (avoid responsibility)
 
 
-## when asking for help
+# when asking for help
 
 mole does not need help.
 
@@ -112,3 +112,36 @@ mole can:
   - eat
   - sleep
   - ...
+
+
+# refine what mole can do
+
+mole can do everything
+
+but it can be useful to sometimes only do some things
+
+## problem
+
+It has been established earlier that the mole can dig through anything.
+
+It has also been established that the mole will do what is needed from
+it independently of whether it wants to do it.
+
+In this case it needs to say hello to an aquaintance on the other side
+of a wall, but it doesn't like the aquaintance very much.
+
+It is however forced to say hello, since it can just dig through the
+wall.
+
+A solution to this problem is to remove the ability to dig through
+walls.
+
+In other words, it is a moal (don't have the ability to say hello) to
+remove another moal (always say hello when possible).
+
+## solution
+
+Refine the `mole can dig through X` rule to only work in non-wall cases
+of `X`?
+
+Maybe a `mole can lie to itself`?
