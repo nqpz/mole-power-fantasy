@@ -89,3 +89,14 @@ Entity can X if
 
 - Entity can do action also before some other action (time travel)
 - Entity cannot do any action (avoid responsibility)
+
+
+## when asking for help
+
+mole does not need help.
+
+mole can:
+
+  - eat
+  - sleep
+  - ...
