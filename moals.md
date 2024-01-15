@@ -122,3 +122,22 @@ or
 
 set trap
 wait for vole
+
+
+# Mole feel bad about get rid of vole (follow-up)
+
+## Problem
+
+mole feel bad about `<action to get rid of vole>`
+
+vole is different
+
+vole is okay
+
+## Solution
+
+need to say sorry to vole or part of vole
+
+if scare away, find and say sorry
+
+if eat, poop and say sorry
