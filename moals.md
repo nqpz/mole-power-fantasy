@@ -98,3 +98,27 @@ molly love mole
 ## Solution 2
 
 mole not love molly
+
+
+# Get rid of vole
+
+## Problem
+
+vole is not mole
+
+vole is rodent
+
+vole is annoying
+
+## Solutions
+
+scare vole
+
+or
+
+eat vole
+
+or
+
+set trap
+wait for vole

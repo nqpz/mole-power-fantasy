@@ -75,3 +75,7 @@ MoleA has empathy with MoleB :-
 
 MoleA want spend time with MoleB :-
   MoleA love MoleB.
+
+
+Mole scare Someone
+  => Someone move to X, where X is in different direction than Mole
