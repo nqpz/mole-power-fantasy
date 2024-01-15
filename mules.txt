@@ -65,7 +65,9 @@ next turn: X can be on Pos0 if
 trap kills X if
   X on trap.
 
-# TODO: mate, traps
+X can set trap
+  :- X has trap
+  => exists trap on position of X
 
 
 MoleA has empathy with MoleB :-
