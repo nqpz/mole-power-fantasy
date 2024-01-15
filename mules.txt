@@ -6,6 +6,10 @@ Mole eat Food :-
   Mole is hungry
   Mole near Food
 
+Mole can poop Poop
+  :- Mole eat Food
+  => Poop is poop from Food
+
 Item is Food :-
   Item is Animal
   Item is (dead | paralyzed)
