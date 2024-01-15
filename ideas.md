@@ -145,3 +145,8 @@ Refine the `mole can dig through X` rule to only work in non-wall cases
 of `X`?
 
 Maybe a `mole can lie to itself`?
+
+
+# nemesis
+
+Nemesis can do X if Mole can do X
