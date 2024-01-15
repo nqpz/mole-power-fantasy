@@ -29,12 +29,14 @@ mole is predator of worm
 
 can Mole sleep :-
   Mole is awake
+=> Mole is asleep
 
 can Mole wake up :-
-  Mole sleep
+  Mole is asleep
+=> Mole is awake
 
 Mole can dream :-
-  Mole sleep
+  Mole is asleep
 
 can Mole dig through Thing :-
   Mole is next to Thing,
