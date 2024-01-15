@@ -150,3 +150,20 @@ Maybe a `mole can lie to itself`?
 # nemesis
 
 Nemesis can do X if Mole can do X
+
+
+# mole gets bored
+
+## problem
+
+mole can do everything
+
+mole cannot learn new thing
+
+mole is bored
+
+## solution
+
+world has drive (or other verb not previously used)
+
+(mole cannot drive)

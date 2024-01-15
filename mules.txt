@@ -85,3 +85,9 @@ MoleA want spend time with MoleB :-
 
 Mole scare Someone
   => Someone move to X, where X is in different direction than Mole
+
+
+# late stage in game
+Mole is bored :-
+  world has X,
+  forall X. Mole can X
