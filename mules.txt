@@ -86,6 +86,10 @@ MoleA want spend time with MoleB :-
 Mole scare Someone
   => Someone move to X, where X is in different direction than Mole
 
+# example: Mole think human is Food (so can eat human)
+Mole think X is Y
+  => X is Y.
+
 
 # late stage in game
 Mole is bored :-

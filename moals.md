@@ -141,3 +141,16 @@ need to say sorry to vole or part of vole
 if scare away, find and say sorry
 
 if eat, poop and say sorry
+
+
+# Taste gourmet food
+
+mole want taste gourmet food
+
+mole can convert Food to gourmet food
+
+## what if no food
+
+mole think human is food
+
+mole convert human to gourmet food
