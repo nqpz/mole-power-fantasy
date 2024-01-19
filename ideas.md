@@ -103,6 +103,12 @@ Entity can X if
 - Entity cannot do any action (avoid responsibility)
 
 
+# introducing new actions
+
+mole can do all actions, but only introduce them one by one in relation
+to active mole goals.
+
+
 # when asking for help
 
 mole does not need help.
