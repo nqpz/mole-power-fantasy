@@ -154,3 +154,30 @@ mole can convert Food to gourmet food
 mole think human is food
 
 mole convert human to gourmet food
+
+
+# Mole feel bad about changing others' minds
+
+earlier:
+
+> mole think jack think mole is cool
+>
+> jack think mole is cool
+
+triggered later by someone related to jack (time passed):
+
+mole feel bad about mole think jack think mole is cool
+
+moal: remove mole feel bad
+
+## solution 1
+
+mole apologize to jack (if alive)
+
+## solution 2
+
+mole apologize to family of jack (if alive)
+
+## solution 3
+
+mole think not mole feel bad
